@@ -1,0 +1,8 @@
+*.nc
+*.grib
+*.grb
+*.zip
+_tmp_*
+__pycache__/
+*.pyc
+.spyproject/
